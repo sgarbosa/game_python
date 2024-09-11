@@ -1,8 +1,8 @@
 # Snake com Python #
-## Programa desenvolvido na IDE PyCharm. Mais detalhes sobre a mesma, acesse: https://www.jetbrains.com/pt-br/pycharm/ ##
+## Programa desenvolvido na IDE PyCharm. Mais detalhes sobre a mesma, acesse: https://www.jetbrains.com/pt-br/pycharm/ 
 
-### O Jogo Snake com Python tem o objetivo de estudar as propriedades básicas do PyGame, como: movimentação, pontuação e colisão.###
-### Sendo um projeto simples, tem de a ser uma das maneiras mais divertidas de adentrar no mundo da lógica e da programação.###
+### O Jogo Snake com Python tem o objetivo de estudar as propriedades básicas do PyGame, como: movimentação, pontuação e colisão.
+### Sendo um projeto simples, tem de a ser uma das maneiras mais divertidas de adentrar no mundo da lógica e da programação.
 
 Snake em Python é um jogo onde você controla a conhecida "Cobrinha" em busca de seu alimento. Porém, nesta versão,
 bombas aleatórias podem ir ao seu encontro e acabar com sua refeição. Por isso, tome muito cuidado com o que vai comer!!
